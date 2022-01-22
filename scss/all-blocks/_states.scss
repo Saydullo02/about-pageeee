@@ -1,0 +1,147 @@
+.states{
+    
+    &__top{
+        margin-left: 85px;
+        margin-bottom: 168px;
+    }
+    
+    &__heading{
+        max-width: 255px;
+        width: 100%;
+        font-family: 'Fraunces', 'sans-serif';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 32px;
+        color: #83888F;
+        margin-bottom: 72px;
+        
+    }
+    
+    &__side{
+        display: flex;
+        align-items: center;
+        
+    }
+    
+    &__left{
+        margin-right: 95px;
+    }
+    
+    
+    &__left-image{
+        width: 40px;
+        height: 49px;
+        object-fit: contain;
+        margin-bottom: 45px;
+    }
+    
+    &__left-title{
+        max-width: 272px;
+        width: 100%;
+        font-family: 'Fraunces', 'sans-serif';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 36px;
+        color: #333D4B;
+        margin: 0;
+        margin-bottom: 24px;
+        
+    }
+    
+    &__left-item{
+        max-width: 285px;
+        width: 100%;
+        font-family: 'Barlow', 'sans-serif';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 26px;
+        color: #333D4B;
+        
+    }
+    
+    &__middle{
+        margin-right: 95px;
+        
+    }
+    
+    &__middle-image{
+        width: 51px;
+        height: 49px;
+        object-fit: contain;
+        margin-bottom: 45px;
+    }
+    
+    &__middle-title{
+        max-width: 255px;
+        width: 100%;
+        font-family: 'Fraunces', 'sans-serif';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 36px;
+        color: #333D4B;
+        margin: 0;
+        margin-bottom: 24px;
+        
+    }
+
+    &__middle-item{
+        max-width: 285px;
+        width: 100%;
+        font-family: 'Barlow', 'sans-serif';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 26px;
+        color: #333D4B;
+
+    }
+
+    &__right-image{
+        width: 48px;
+        height: 43px;
+        object-fit: contain;
+        margin-bottom: 48px;
+    }
+
+    &__right-title{
+        max-width: 255px;
+        width: 100%;
+        font-family: 'Fraunces', 'sans-serif';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 36px;
+        color: #333D4B;
+        margin: 0;
+        margin-bottom: 24px;
+    }
+
+    &__right-item{
+        max-width: 285px;
+        width: 100%;
+        font-family: 'Barlow', 'sans-serif';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 26px;
+        color: #333D4B; 
+    }
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}

@@ -1,0 +1,50 @@
+
+.commitment {
+    
+    &__container{
+        max-width: 1114px;
+        width: 100%;
+        margin-bottom: 168px;
+    }
+    
+    &__side{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    &__right{
+        align-items: center;
+        flex-direction: column;
+        margin-left: 125px;
+        
+    }
+    
+    &__title{
+        max-width: 357px;
+        width: 100%;  
+        font-family: 'Fraunces', 'sans-serif';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 48px;
+        color: #333D4B;
+        
+    }
+    
+    &__text{
+        max-width: 540px;
+        width: 100%;
+        font-family: 'Barlow', 'sans-serif';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 26px;
+        color: #333D4B;
+        mix-blend-mode: normal;
+        opacity: 0.8;
+        
+    }
+    
+    
+}

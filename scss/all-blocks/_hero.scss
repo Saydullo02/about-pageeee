@@ -1,0 +1,43 @@
+.hero{
+    
+    &__container{
+        max-width: 1280px;
+        border-radius: 10px;
+        background-image: url('./../images/hero-bacground.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-bottom: 136px;
+    }
+    
+    &__left{
+        align-items: center;
+        flex-direction: column;
+        padding: 137px 0px 137px 98px;
+    }
+    
+    &__heading{
+        max-width: 188px;
+        width: 100%;
+        font-family: 'Fraunces', 'sans-serif';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 48px;
+        color: #FEFCF7;
+    }
+    
+    &__text{
+        max-width: 445px;
+        width: 100%;
+        font-family: 'Barlow', 'sans-serif';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 26px;
+        color: #FEFCF7;
+    }
+    
+    
+    
+}
